@@ -1,5 +1,5 @@
 # CKA-Preparation
-Repository with some reference information about the CKA exam, tips &amp; tricks and Reference URLs.
+Repository with some reference information about the CKA exam, tips &amp; tricks and Reference URLs. For CKAD Tips, you can refer to [this link](https://github.com/mgonzalezo/CKAD_Preparation). 
 
 ### Note 
 
