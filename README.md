@@ -937,10 +937,20 @@ Every second you save is priceless, that is why I suggest the following aliases 
 - alias ka="kubectl apply -f "
 - alias kn="kubectl config set-context --current --namespace" (use this with extreme caution, changing namespaces during exam means you need to return to default ns for every single question).
 
-# 5. FINAL WORDS
+# 5. CKA vs CKAD 
+
+When it comes to comparing these two programs, my answer will always be the same: it depends. 
+
+It depends what is your current role and how deep you want to go into Kubernetes. **Developers** might consider CKAD as a first step and then move to CKA for full knowledge. **DevOps or Infrastructure engineers** may consider CKA as a good chance to test their Linux & Docker Knowledge.
+
+Which one is more difficult?
+Personally, **I found CKA more difficult than CKAD exam**, not for the level of questions, but the way the questions were presented (and in some cases, redacted). Sometimes I found myself guessing between two or three options for one question of CKA, while for CKAD I knew from the first time what I needed to do. However, it may be different based on your background and study plan.
+
+# 6. FINAL WORDS
 
 Preparing for CKA program was quite challenging, but once you get the final result and realize how much you have learnt about this amazing Cloud Native world and Microservices, you won't regret it!
 
+![Image of CKA](https://github.com/mgonzalezo/CKA-Preparation/blob/main/cka-mgonzalezo.JPG)
 
-
+![Image of CKAD](https://github.com/mgonzalezo/CKA-Preparation/blob/main/ckad-mgonzalezo.JPG)
 
