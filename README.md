@@ -941,10 +941,10 @@ Every second you save is priceless, that is why I suggest the following aliases 
 
 When it comes to comparing these two programs, my answer will always be the same: it depends. 
 
-It depends what is your current role and how deep you want to go into Kubernetes. **Developers** might consider CKAD as a first step and then move to CKA for full knowledge. **DevOps or Infrastructure engineers** may consider CKA as a good chance to test their Linux & Docker Knowledge.
+It depends what your current role is and how deep you want to go into Kubernetes. **Developers** might consider CKAD as a first step and then move to CKA for full knowledge. **DevOps or Infrastructure engineers** may consider CKA as a good chance to test their Linux & Docker Knowledge as well.
 
 Which one is more difficult?
-Personally, **I found CKA more difficult than CKAD exam**, not for the level of questions, but the way the questions were presented (and in some cases, redacted). Sometimes I found myself guessing between two or three options for one question of CKA, while for CKAD I knew from the first time what I needed to do. However, it may be different based on your background and study plan.
+Personally, **I found CKA more difficult than CKAD exam**, not for the level of questions, but the way the questions were presented (and in some cases, redacted). Sometimes I found myself guessing between two or three options for one question during CKA exam, while for CKAD I knew what I had to do from the beginning. However, it may be different based on your background and study plan.
 
 # 6. FINAL WORDS
 
